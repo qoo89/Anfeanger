@@ -5,7 +5,7 @@ import edu.princeton.cs.introcs.StdOut;
 public class Spieler {
 	
 	 private String name;
-	private Wuerfel [] wuerfeSpeicher; 						//InstanzArray
+	private Wuerfel [] wuerfeSpeicher; 						//InstanzArraydfgdfg
 
 	public Spieler(String name) 							//Konstruktor
 	{
